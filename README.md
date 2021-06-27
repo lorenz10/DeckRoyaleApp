@@ -23,7 +23,7 @@ Designed for Android smartphones and tablets.
 ### Screenshots
 
 ![Screenshot_1617381259](https://user-images.githubusercontent.com/37838538/123552789-0ed7c080-d778-11eb-9677-89df27a750cf.png)
-![Screenshot_1616238835](https://user-images.githubusercontent.com/37838538/123552792-10a18400-d778-11eb-9341-b9d215ea0a82.png)
+![Screenshot_1616238835](https://user-images.githubusercontent.com/37838538/123552913-cd93e080-d778-11eb-9e66-d46fd385d500.png)
 ![Screenshot_1616239391](https://user-images.githubusercontent.com/37838538/123552794-11d2b100-d778-11eb-8845-75fac4d78018.png)
 ![Screenshot_1616239334](https://user-images.githubusercontent.com/37838538/123552795-1303de00-d778-11eb-8960-8836a65faee0.png)
 
