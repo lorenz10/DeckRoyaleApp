@@ -1,0 +1,283 @@
+{"frames": [
+
+{
+	"filename": "battlehealer.png",
+	"frame": {"x":1,"y":514,"w":274,"h":326},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":2,"w":274,"h":326},
+	"sourceSize": {"w":277,"h":330},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "battleram.png",
+	"frame": {"x":329,"y":514,"w":274,"h":326},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":2,"w":274,"h":326},
+	"sourceSize": {"w":277,"h":330},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "bombtower.png",
+	"frame": {"x":657,"y":514,"w":274,"h":326},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":2,"w":274,"h":326},
+	"sourceSize": {"w":277,"h":330},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "dartgoblin.png",
+	"frame": {"x":985,"y":514,"w":274,"h":326},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":2,"w":274,"h":326},
+	"sourceSize": {"w":277,"h":330},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "earthquake.png",
+	"frame": {"x":1313,"y":514,"w":274,"h":326},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":4,"w":274,"h":326},
+	"sourceSize": {"w":277,"h":330},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "elixircollector.png",
+	"frame": {"x":1641,"y":514,"w":274,"h":326},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":2,"w":274,"h":326},
+	"sourceSize": {"w":277,"h":330},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "fisherman.png",
+	"frame": {"x":1,"y":252,"w":260,"h":330},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":0,"w":260,"h":330},
+	"sourceSize": {"w":277,"h":330},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "freeze.png",
+	"frame": {"x":1,"y":1066,"w":277,"h":330},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":277,"h":330},
+	"sourceSize": {"w":277,"h":330},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "giantskeleton.png",
+	"frame": {"x":333,"y":1066,"w":277,"h":330},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":277,"h":330},
+	"sourceSize": {"w":277,"h":330},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "goblinbarrel.png",
+	"frame": {"x":665,"y":1066,"w":277,"h":330},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":277,"h":330},
+	"sourceSize": {"w":277,"h":330},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "goblingiant.png",
+	"frame": {"x":997,"y":1066,"w":277,"h":330},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":277,"h":330},
+	"sourceSize": {"w":277,"h":330},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "goblins.png",
+	"frame": {"x":1,"y":1,"w":249,"h":308},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":14,"y":11,"w":249,"h":308},
+	"sourceSize": {"w":277,"h":330},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "golem.png",
+	"frame": {"x":1329,"y":1066,"w":277,"h":330},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":277,"h":330},
+	"sourceSize": {"w":277,"h":330},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "graveyard.png",
+	"frame": {"x":333,"y":252,"w":260,"h":330},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":0,"w":260,"h":330},
+	"sourceSize": {"w":277,"h":330},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "guards.png",
+	"frame": {"x":1661,"y":1066,"w":277,"h":330},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":277,"h":330},
+	"sourceSize": {"w":277,"h":330},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "icespirit.png",
+	"frame": {"x":311,"y":1,"w":249,"h":308},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":14,"y":11,"w":249,"h":308},
+	"sourceSize": {"w":277,"h":330},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "icewizard.png",
+	"frame": {"x":665,"y":252,"w":260,"h":330},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":0,"w":260,"h":330},
+	"sourceSize": {"w":277,"h":330},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "infernodragon.png",
+	"frame": {"x":997,"y":252,"w":260,"h":330},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":0,"w":260,"h":330},
+	"sourceSize": {"w":277,"h":330},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "knight.png",
+	"frame": {"x":621,"y":1,"w":249,"h":308},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":14,"y":11,"w":249,"h":308},
+	"sourceSize": {"w":277,"h":329},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "lavahound.png",
+	"frame": {"x":1329,"y":252,"w":260,"h":330},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":0,"w":260,"h":330},
+	"sourceSize": {"w":277,"h":330},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "lumberjack.png",
+	"frame": {"x":1661,"y":252,"w":260,"h":330},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":0,"w":260,"h":330},
+	"sourceSize": {"w":277,"h":330},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "minionhorde.png",
+	"frame": {"x":931,"y":1,"w":249,"h":308},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":14,"y":11,"w":249,"h":308},
+	"sourceSize": {"w":277,"h":330},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "minions.png",
+	"frame": {"x":1241,"y":1,"w":249,"h":308},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":14,"y":11,"w":249,"h":308},
+	"sourceSize": {"w":277,"h":330},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "mortar.png",
+	"frame": {"x":1551,"y":1,"w":249,"h":308},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":10,"w":249,"h":308},
+	"sourceSize": {"w":277,"h":330},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "musketeer.png",
+	"frame": {"x":1,"y":790,"w":274,"h":326},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":4,"w":274,"h":326},
+	"sourceSize": {"w":277,"h":330},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "rocket.png",
+	"frame": {"x":329,"y":790,"w":274,"h":326},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":2,"w":274,"h":326},
+	"sourceSize": {"w":277,"h":330},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "royalhogs.png",
+	"frame": {"x":657,"y":790,"w":274,"h":326},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":4,"w":274,"h":326},
+	"sourceSize": {"w":277,"h":330},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "threemusketeers.png",
+	"frame": {"x":985,"y":790,"w":274,"h":326},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":2,"w":274,"h":326},
+	"sourceSize": {"w":277,"h":330},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "tombstone.png",
+	"frame": {"x":1313,"y":790,"w":274,"h":326},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":2,"w":274,"h":326},
+	"sourceSize": {"w":277,"h":330},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "valkyrie.png",
+	"frame": {"x":1641,"y":790,"w":274,"h":326},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":2,"w":274,"h":326},
+	"sourceSize": {"w":277,"h":330},
+	"pivot": {"x":0.5,"y":0.5}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "spritesheet_cards-2.png",
+	"format": "RGBA8888",
+	"size": {"w":1992,"h":1344},
+	"scale": "1",
+	"related_multi_packs": [ "spritesheet_cards-0.json", "spritesheet_cards-1.json" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:fa31beebc7bbf68e773ba8990becbaf4:4b12745471e86687076d44b047de97ac:ae0411695fd4ff828ab81891e5d1d94d$"
+}
+}

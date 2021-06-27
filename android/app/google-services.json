@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "111666897822",
+    "project_id": "deckroyale-4e6df",
+    "storage_bucket": "deckroyale-4e6df.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:111666897822:android:3cc35d61eb7232b707ac8f",
+        "android_client_info": {
+          "package_name": "dima.deck_royale_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "111666897822-93jgvtrst2cmvpq3mv2lakj3bfqsadmo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrBXMfn1eul_92kpEHD4j4tz6u8penO0A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "111666897822-93jgvtrst2cmvpq3mv2lakj3bfqsadmo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

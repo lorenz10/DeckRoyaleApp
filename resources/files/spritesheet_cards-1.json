@@ -1,0 +1,337 @@
+{"frames": [
+
+{
+	"filename": "bandit.png",
+	"frame": {"x":1241,"y":252,"w":260,"h":330},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":0,"w":260,"h":330},
+	"sourceSize": {"w":277,"h":330},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "barbarianhut.png",
+	"frame": {"x":1656,"y":514,"w":274,"h":326},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":2,"w":274,"h":326},
+	"sourceSize": {"w":277,"h":330},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "cannoncart.png",
+	"frame": {"x":1,"y":1041,"w":277,"h":330},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":277,"h":330},
+	"sourceSize": {"w":277,"h":330},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "clone.png",
+	"frame": {"x":333,"y":1041,"w":277,"h":330},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":277,"h":330},
+	"sourceSize": {"w":277,"h":330},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "darkprince.png",
+	"frame": {"x":665,"y":1052,"w":277,"h":330},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":277,"h":330},
+	"sourceSize": {"w":277,"h":330},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "electrodragon.png",
+	"frame": {"x":997,"y":1065,"w":277,"h":330},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":277,"h":330},
+	"sourceSize": {"w":277,"h":330},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "electrogiant.png",
+	"frame": {"x":1329,"y":1066,"w":277,"h":330},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":277,"h":330},
+	"sourceSize": {"w":277,"h":330},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "electrospirit.png",
+	"frame": {"x":1,"y":1,"w":249,"h":308},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":10,"w":249,"h":308},
+	"sourceSize": {"w":277,"h":330},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "electrowizard.png",
+	"frame": {"x":1573,"y":252,"w":260,"h":330},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":0,"w":260,"h":330},
+	"sourceSize": {"w":277,"h":330},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "elitebarbarians.png",
+	"frame": {"x":311,"y":1,"w":249,"h":308},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":14,"y":11,"w":249,"h":308},
+	"sourceSize": {"w":277,"h":330},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "executioner.png",
+	"frame": {"x":1661,"y":1066,"w":277,"h":330},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":277,"h":330},
+	"sourceSize": {"w":277,"h":330},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "firecracker.png",
+	"frame": {"x":621,"y":1,"w":249,"h":308},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":10,"w":249,"h":308},
+	"sourceSize": {"w":277,"h":330},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "firespirits.png",
+	"frame": {"x":931,"y":1,"w":249,"h":308},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":14,"y":11,"w":249,"h":308},
+	"sourceSize": {"w":277,"h":330},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "giant.png",
+	"frame": {"x":1328,"y":514,"w":273,"h":326},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":2,"w":273,"h":326},
+	"sourceSize": {"w":277,"h":330},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "giantsnowball.png",
+	"frame": {"x":1241,"y":1,"w":249,"h":308},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":10,"w":249,"h":308},
+	"sourceSize": {"w":277,"h":330},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "goblingang.png",
+	"frame": {"x":1551,"y":1,"w":249,"h":308},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":14,"y":11,"w":249,"h":308},
+	"sourceSize": {"w":277,"h":330},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "healspirit.png",
+	"frame": {"x":1,"y":765,"w":274,"h":326},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":2,"w":274,"h":326},
+	"sourceSize": {"w":277,"h":330},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "hogrider.png",
+	"frame": {"x":329,"y":765,"w":274,"h":326},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":2,"w":274,"h":326},
+	"sourceSize": {"w":277,"h":330},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "icegolem.png",
+	"frame": {"x":657,"y":765,"w":274,"h":326},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":2,"w":274,"h":326},
+	"sourceSize": {"w":277,"h":330},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "infernotower.png",
+	"frame": {"x":985,"y":776,"w":274,"h":326},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":2,"w":274,"h":326},
+	"sourceSize": {"w":277,"h":330},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "megaminion.png",
+	"frame": {"x":1313,"y":789,"w":274,"h":326},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":2,"w":274,"h":326},
+	"sourceSize": {"w":277,"h":330},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "minipekka.png",
+	"frame": {"x":1641,"y":790,"w":274,"h":326},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":2,"w":274,"h":326},
+	"sourceSize": {"w":277,"h":330},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "rage.png",
+	"frame": {"x":1,"y":1320,"w":277,"h":330},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":277,"h":330},
+	"sourceSize": {"w":277,"h":330},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "ramrider.png",
+	"frame": {"x":1,"y":503,"w":260,"h":330},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":0,"w":260,"h":330},
+	"sourceSize": {"w":277,"h":330},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "royalghost.png",
+	"frame": {"x":333,"y":503,"w":260,"h":329},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":0,"w":260,"h":329},
+	"sourceSize": {"w":277,"h":329},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "skeletonarmy.png",
+	"frame": {"x":333,"y":1320,"w":277,"h":330},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":277,"h":330},
+	"sourceSize": {"w":277,"h":330},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "skeletons.png",
+	"frame": {"x":1,"y":252,"w":249,"h":308},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":14,"y":11,"w":249,"h":308},
+	"sourceSize": {"w":277,"h":330},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "sparky.png",
+	"frame": {"x":664,"y":503,"w":260,"h":330},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":0,"w":260,"h":330},
+	"sourceSize": {"w":277,"h":330},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "speargoblins.png",
+	"frame": {"x":311,"y":252,"w":249,"h":308},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":14,"y":11,"w":249,"h":308},
+	"sourceSize": {"w":277,"h":330},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "tesla.png",
+	"frame": {"x":621,"y":252,"w":249,"h":308},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":11,"y":10,"w":249,"h":308},
+	"sourceSize": {"w":277,"h":330},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "thelog.png",
+	"frame": {"x":996,"y":514,"w":260,"h":330},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":9,"y":0,"w":260,"h":330},
+	"sourceSize": {"w":277,"h":330},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "tornado.png",
+	"frame": {"x":665,"y":1331,"w":277,"h":330},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":277,"h":330},
+	"sourceSize": {"w":277,"h":330},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "wallbreakers.png",
+	"frame": {"x":997,"y":1344,"w":277,"h":330},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":277,"h":330},
+	"sourceSize": {"w":277,"h":330},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "witch.png",
+	"frame": {"x":1329,"y":1345,"w":277,"h":330},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":277,"h":330},
+	"sourceSize": {"w":277,"h":330},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "xbow.png",
+	"frame": {"x":1661,"y":1345,"w":277,"h":330},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":277,"h":330},
+	"sourceSize": {"w":277,"h":330},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "zap.png",
+	"frame": {"x":931,"y":252,"w":249,"h":308},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":14,"y":11,"w":249,"h":308},
+	"sourceSize": {"w":277,"h":330},
+	"pivot": {"x":0.5,"y":0.5}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "spritesheet_cards-1.png",
+	"format": "RGBA8888",
+	"size": {"w":1992,"h":1623},
+	"scale": "1",
+	"related_multi_packs": [ "spritesheet_cards-0.json", "spritesheet_cards-2.json" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:fa31beebc7bbf68e773ba8990becbaf4:4b12745471e86687076d44b047de97ac:ae0411695fd4ff828ab81891e5d1d94d$"
+}
+}
